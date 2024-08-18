@@ -1,0 +1,234 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "test2",
+      "request": "launch",
+      "mainClass": "practice.test2",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "FracKnap",
+      "request": "launch",
+      "mainClass": "practice.FracKnap",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "mcm.test",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "mem",
+      "request": "launch",
+      "mainClass": "mcm.mem",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "cointT",
+      "request": "launch",
+      "mainClass": "cointT",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "CoinChange",
+      "request": "launch",
+      "mainClass": "CoinChange",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "coin",
+      "request": "launch",
+      "mainClass": "coin",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "mindiff",
+      "request": "launch",
+      "mainClass": "mindiff",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "KsM",
+      "request": "launch",
+      "mainClass": "practice.KsM",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "KsR",
+      "request": "launch",
+      "mainClass": "practice.KsR",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "cp",
+      "request": "launch",
+      "mainClass": "practice.cp",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "practice.test",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "HamiltonCycle",
+      "request": "launch",
+      "mainClass": "practice.HamiltonCycle",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "fib2",
+      "request": "launch",
+      "mainClass": "practice.fib2",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "ClosestP",
+      "request": "launch",
+      "mainClass": "practice.ClosestP",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "equalRec",
+      "request": "launch",
+      "mainClass": "equalRec",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "SumDp",
+      "request": "launch",
+      "mainClass": "SumDp",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "array.test",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "SumRec",
+      "request": "launch",
+      "mainClass": "array.SumRec",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "SumDp",
+      "request": "launch",
+      "mainClass": "array.SumDp",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "array.Sum",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "knapsnak",
+      "request": "launch",
+      "mainClass": "knapsnak",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "rec",
+      "request": "launch",
+      "mainClass": "mcm.rec",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "basic",
+      "request": "launch",
+      "mainClass": "mcm.basic",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "q1d",
+      "request": "launch",
+      "mainClass": "q1d",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "q1r",
+      "request": "launch",
+      "mainClass": "q1r",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "subset.q1",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "q2",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "type": "java",
+      "name": "knapsack1",
+      "request": "launch",
+      "mainClass": "knapsack1",
+      "projectName": "DAA_9520ba36"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Naresh Damera/Desktop/Multi/DAA",
+      "program": "c:/Users/Naresh Damera/Desktop/Multi/DAA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
